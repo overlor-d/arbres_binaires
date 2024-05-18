@@ -1,0 +1,4 @@
+CC=/usr/bin/gcc
+CFLAGS=-W -Wall -Werror -std=c99 -pedantic
+LDFLAGS=
+MD5=openssl dgst -md5
